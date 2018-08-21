@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue; 
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: bold; 
+    padding-left: 1%; 
+    padding-top: 2%;
+     
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+    padding-left: 2%; 
+     
+}
+
+.note_text{
+    padding-left: 3%; 
+    color: grey; 
+    font-family: 'Courier New', Courier, monospace; 
+}
+
